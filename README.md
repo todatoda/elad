@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Vaadin Spring tutorial
 ======================
 
@@ -16,4 +16,4 @@ Navigate to the `org.vaadin.spring.tutorial.TutorialApplication` class and run i
 =======
 # elad
 testing with oron golan
->>>>>>> 884683ab73b18a649bae30bb37d8f7a394295812
+
